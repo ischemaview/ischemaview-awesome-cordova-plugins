@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-dbcopy
-$ npm install @awesome-cordova-plugins/sqlite-db-copy
+$ npm install @ischemaview-awesome-cordova-plugins/sqlite-db-copy
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/sqlite-db-copy/)

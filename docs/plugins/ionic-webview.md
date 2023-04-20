@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-ionic-webview
-$ npm install @awesome-cordova-plugins/ionic-webview
+$ npm install @ischemaview-awesome-cordova-plugins/ionic-webview
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/ionic-webview/)

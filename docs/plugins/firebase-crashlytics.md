@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-firebase-crashlytics --variable ANDROID_FIREBASE_CORE_VERSION=16.0.0
-$ npm install @awesome-cordova-plugins/firebase-crashlytics
+$ npm install @ischemaview-awesome-cordova-plugins/firebase-crashlytics
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/firebase-crashlytics/)

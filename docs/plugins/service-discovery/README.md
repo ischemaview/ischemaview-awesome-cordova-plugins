@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-discovery
-$ npm install @awesome-cordova-plugins/service-discovery
+$ npm install @ischemaview-awesome-cordova-plugins/service-discovery
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/service-discovery/)

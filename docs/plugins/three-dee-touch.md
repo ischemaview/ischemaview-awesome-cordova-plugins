@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-3dtouch
-$ npm install @awesome-cordova-plugins/three-dee-touch
+$ npm install @ischemaview-awesome-cordova-plugins/three-dee-touch
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/three-dee-touch/)

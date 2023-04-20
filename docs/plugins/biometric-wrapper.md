@@ -2,7 +2,7 @@
 
 ```text
 $ ''
-$ npm install @awesome-cordova-plugins/biometric-wrapper
+$ npm install @ischemaview-awesome-cordova-plugins/biometric-wrapper
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/biometric-wrapper/)

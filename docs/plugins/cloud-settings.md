@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-cloud-settings --variable ANDROID_BACKUP_SERVICE_KEY=myapikey
-$ npm install @awesome-cordova-plugins/cloud-settings
+$ npm install @ischemaview-awesome-cordova-plugins/cloud-settings
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/cloud-settings/)

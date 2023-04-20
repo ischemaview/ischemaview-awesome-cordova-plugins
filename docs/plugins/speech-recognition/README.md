@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-speechrecognition
-$ npm install @awesome-cordova-plugins/speech-recognition
+$ npm install @ischemaview-awesome-cordova-plugins/speech-recognition
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/speech-recognition/)

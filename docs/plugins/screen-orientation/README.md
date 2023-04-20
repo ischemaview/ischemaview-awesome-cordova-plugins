@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-screen-orientation
-$ npm install @awesome-cordova-plugins/screen-orientation
+$ npm install @ischemaview-awesome-cordova-plugins/screen-orientation
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/screen-orientation/)

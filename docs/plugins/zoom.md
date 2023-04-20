@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova.plugin.zoom
-$ npm install @awesome-cordova-plugins/zoom
+$ npm install @ischemaview-awesome-cordova-plugins/zoom
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/zoom/)

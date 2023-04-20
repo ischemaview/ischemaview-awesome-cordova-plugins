@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-statusbar
-$ npm install @awesome-cordova-plugins/status-bar
+$ npm install @ischemaview-awesome-cordova-plugins/status-bar
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/status-bar/)

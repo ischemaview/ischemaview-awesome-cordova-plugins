@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-native-keyboard
-$ npm install @awesome-cordova-plugins/native-keyboard
+$ npm install @ischemaview-awesome-cordova-plugins/native-keyboard
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/native-keyboard/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add com.telerik.plugins.nativepagetransitions
-$ npm install @awesome-cordova-plugins/native-page-transitions
+$ npm install @ischemaview-awesome-cordova-plugins/native-page-transitions
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/native-page-transitions/)

@@ -1,6 +1,6 @@
 # UriHelper
 
-ionic cordova plugin add phonegap-nfc $ npm install @awesome-cordova-plugins/nfc
+ionic cordova plugin add phonegap-nfc $ npm install @ischemaview-awesome-cordova-plugins/nfc
 
 \`\`\`
 

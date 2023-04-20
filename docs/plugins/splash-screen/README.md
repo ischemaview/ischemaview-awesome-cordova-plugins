@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-splashscreen
-$ npm install @awesome-cordova-plugins/splash-screen
+$ npm install @ischemaview-awesome-cordova-plugins/splash-screen
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/splash-screen/)

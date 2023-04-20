@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-zeroconf
-$ npm install @awesome-cordova-plugins/zeroconf
+$ npm install @ischemaview-awesome-cordova-plugins/zeroconf
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/zeroconf/)

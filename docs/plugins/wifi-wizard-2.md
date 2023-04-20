@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-wifiwizard2
-$ npm install @awesome-cordova-plugins/wifi-wizard-2
+$ npm install @ischemaview-awesome-cordova-plugins/wifi-wizard-2
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/wifi-wizard-2/)

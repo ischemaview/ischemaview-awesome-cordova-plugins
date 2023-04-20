@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-battery-status
-$ npm install @awesome-cordova-plugins/battery-status
+$ npm install @ischemaview-awesome-cordova-plugins/battery-status
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/battery-status/)

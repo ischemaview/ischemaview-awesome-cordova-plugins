@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add iamport-cordova
-$ npm install @awesome-cordova-plugins/iamport-cordova
+$ npm install @ischemaview-awesome-cordova-plugins/iamport-cordova
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/iamport-cordova/)

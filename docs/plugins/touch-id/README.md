@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-touch-id
-$ npm install @awesome-cordova-plugins/touch-id
+$ npm install @ischemaview-awesome-cordova-plugins/touch-id
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/touch-id/)

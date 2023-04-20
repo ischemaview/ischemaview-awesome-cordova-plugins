@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-ios-aswebauthenticationsession-api
-$ npm install @awesome-cordova-plugins/ios-aswebauthenticationsession-api
+$ npm install @ischemaview-awesome-cordova-plugins/ios-aswebauthenticationsession-api
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/ios-aswebauthenticationsession-api/)

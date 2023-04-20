@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-code-push
-$ npm install @awesome-cordova-plugins/code-push
+$ npm install @ischemaview-awesome-cordova-plugins/code-push
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/code-push/)

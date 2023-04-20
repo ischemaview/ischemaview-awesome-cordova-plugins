@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-filepath
-$ npm install @awesome-cordova-plugins/file-path
+$ npm install @ischemaview-awesome-cordova-plugins/file-path
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/file-path/)

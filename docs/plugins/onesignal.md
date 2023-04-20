@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add onesignal-cordova-plugin
-$ npm install @awesome-cordova-plugins/onesignal
+$ npm install @ischemaview-awesome-cordova-plugins/onesignal
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/onesignal/)

@@ -1,4 +1,4 @@
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![](https://img.shields.io/npm/v/@awesome-cordova-plugins/core.svg)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![](https://img.shields.io/npm/v/@ischemaview-awesome-cordova-plugins/core.svg)
 
 # Awesome Cordova Plugins
 
@@ -17,7 +17,7 @@ In addition to Cordova, Awesome Cordova Plugins also works with [Capacitor](http
 Run following command to install Awesome Cordova Plugins in your project.
 
 ```bash
-npm install @awesome-cordova-plugins/core --save
+npm install @ischemaview-awesome-cordova-plugins/core --save
 ```
 
 You also need to install the Awesome Cordova Plugins package for each plugin you want to add. Please see the [Awesome Cordova Plugins documentation](https://ionicframework.com/docs/native/) for complete instructions on how to add and use the plugins.
@@ -35,7 +35,7 @@ Make sure to import the injectable class from the `/ngx` directory as shown in t
 
 ```typescript
 // app.module.ts
-import { Camera } from '@awesome-cordova-plugins/camera/ngx';
+import { Camera } from '@ischemaview-awesome-cordova-plugins/camera/ngx';
 
 ...
 
@@ -53,7 +53,7 @@ export class AppModule { }
 ```
 
 ```typescript
-import { Geolocation } from '@awesome-cordova-plugins/geolocation/ngx';
+import { Geolocation } from '@ischemaview-awesome-cordova-plugins/geolocation/ngx';
 import { Platform } from 'ionic-angular';
 
 @Component({ ... })
@@ -89,10 +89,10 @@ React apps must use Capacitor to build native mobile apps. However, Awesome Cord
 
 ```bash
 # Install Core library (once per project)
-npm install @awesome-cordova-plugins/core
+npm install @ischemaview-awesome-cordova-plugins/core
 
 # Install Awesome Cordova Plugins TypeScript wrapper
-npm install @awesome-cordova-plugins/barcode-scanner
+npm install @ischemaview-awesome-cordova-plugins/barcode-scanner
 
 # Install Cordova plugin
 npm install phonegap-plugin-barcodescanner
@@ -104,7 +104,7 @@ ionic cap sync
 Import the plugin object then use its static methods:
 
 ```typescript
-import { BarcodeScanner } from '@awesome-cordova-plugins/barcode-scanner';
+import { BarcodeScanner } from '@ischemaview-awesome-cordova-plugins/barcode-scanner';
 
 const Tab1: React.FC = () => {
   const openScanner = async () => {
@@ -131,7 +131,7 @@ const Tab1: React.FC = () => {
 These modules can work in any ES2015+/TypeScript app (including Angular/Ionic apps). To use any plugin, import the class from the appropriate package, and use it's static methods.
 
 ```js
-import { Camera } from '@awesome-cordova-plugins/camera';
+import { Camera } from '@ischemaview-awesome-cordova-plugins/camera';
 
 document.addEventListener('deviceready', () => {
   Camera.getPicture()
@@ -192,7 +192,7 @@ To do this, you need to provide a mock implementation of the plugins you wish to
 First import the `Camera` class in your `src/app/app.module.ts` file:
 
 ```typescript
-import { Camera } from '@awesome-cordova-plugins/camera/ngx';
+import { Camera } from '@ischemaview-awesome-cordova-plugins/camera/ngx';
 ```
 
 Then create a new class that extends the `Camera` class with a mock implementation:
@@ -222,7 +222,7 @@ import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 
-import { Camera } from '@awesome-cordova-plugins/camera/ngx';
+import { Camera } from '@ischemaview-awesome-cordova-plugins/camera/ngx';
 
 import { HomePage } from '../pages/home/home';
 import { MyApp } from './app.component';

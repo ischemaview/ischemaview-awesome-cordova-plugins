@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add ir.metrix.sdk
-$ npm install @awesome-cordova-plugins/metrix
+$ npm install @ischemaview-awesome-cordova-plugins/metrix
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/metrix/)

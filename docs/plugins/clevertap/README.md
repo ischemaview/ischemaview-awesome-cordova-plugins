@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add clevertap-cordova
-$ npm install @awesome-cordova-plugins/clevertap
+$ npm install @ischemaview-awesome-cordova-plugins/clevertap
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/clevertap/)

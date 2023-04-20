@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-globalization
-$ npm install @awesome-cordova-plugins/globalization
+$ npm install @ischemaview-awesome-cordova-plugins/globalization
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/globalization/)

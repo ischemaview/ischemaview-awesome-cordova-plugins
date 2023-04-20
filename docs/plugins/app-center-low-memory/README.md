@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add https://github.com/Microsoft/appcenter-sdk-cordova/tree/master/cordova-plugin-appcenter-generate-low-memory
-$ npm install @awesome-cordova-plugins/app-center-low-memory
+$ npm install @ischemaview-awesome-cordova-plugins/app-center-low-memory
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/app-center-low-memory/)

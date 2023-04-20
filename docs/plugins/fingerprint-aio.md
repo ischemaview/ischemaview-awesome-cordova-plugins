@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-fingerprint-aio
-$ npm install @awesome-cordova-plugins/fingerprint-aio
+$ npm install @ischemaview-awesome-cordova-plugins/fingerprint-aio
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/fingerprint-aio/)

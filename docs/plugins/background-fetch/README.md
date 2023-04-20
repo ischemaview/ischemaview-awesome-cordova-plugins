@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-background-fetch
-$ npm install @awesome-cordova-plugins/background-fetch
+$ npm install @ischemaview-awesome-cordova-plugins/background-fetch
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/background-fetch/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-music-controls2
-$ npm install @awesome-cordova-plugins/music-controls
+$ npm install @ischemaview-awesome-cordova-plugins/music-controls
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/music-controls/)

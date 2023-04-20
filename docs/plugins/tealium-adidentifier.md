@@ -2,7 +2,7 @@
 
 ```text
 $ ''
-$ npm install @awesome-cordova-plugins/tealium-adidentifier
+$ npm install @ischemaview-awesome-cordova-plugins/tealium-adidentifier
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/tealium-adidentifier/)

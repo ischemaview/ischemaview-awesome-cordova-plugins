@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-background-mode
-$ npm install @awesome-cordova-plugins/background-mode
+$ npm install @ischemaview-awesome-cordova-plugins/background-mode
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/background-mode/)

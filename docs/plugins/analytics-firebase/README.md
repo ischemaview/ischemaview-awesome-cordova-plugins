@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-analytics
-$ npm install @awesome-cordova-plugins/analytics-firebase
+$ npm install @ischemaview-awesome-cordova-plugins/analytics-firebase
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/analytics-firebase/)

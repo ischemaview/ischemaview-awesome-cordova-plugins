@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add uk.co.workingedge.cordova.plugin.sqliteporter
-$ npm install @awesome-cordova-plugins/sqlite-porter
+$ npm install @ischemaview-awesome-cordova-plugins/sqlite-porter
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/sqlite-porter/)

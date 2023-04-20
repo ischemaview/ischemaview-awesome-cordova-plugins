@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-googleplus --variable REVERSED_CLIENT_ID=myreversedclientid
-$ npm install @awesome-cordova-plugins/google-plus
+$ npm install @ischemaview-awesome-cordova-plugins/google-plus
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/google-plus/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-video-editor
-$ npm install @awesome-cordova-plugins/video-editor
+$ npm install @ischemaview-awesome-cordova-plugins/video-editor
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/video-editor/)

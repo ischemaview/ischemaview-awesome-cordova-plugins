@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-mixpanel
-$ npm install @awesome-cordova-plugins/mixpanel
+$ npm install @ischemaview-awesome-cordova-plugins/mixpanel
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/mixpanel/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-appcenter-analytics
-$ npm install @awesome-cordova-plugins/app-center-analytics
+$ npm install @ischemaview-awesome-cordova-plugins/app-center-analytics
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/app-center-analytics/)

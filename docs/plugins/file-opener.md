@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-file-opener2
-$ npm install @awesome-cordova-plugins/file-opener
+$ npm install @ischemaview-awesome-cordova-plugins/file-opener
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/file-opener/)

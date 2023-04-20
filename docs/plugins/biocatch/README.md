@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-biocatch
-$ npm install @awesome-cordova-plugins/biocatch
+$ npm install @ischemaview-awesome-cordova-plugins/biocatch
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/biocatch/)

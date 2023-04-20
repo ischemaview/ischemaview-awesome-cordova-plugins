@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-market
-$ npm install @awesome-cordova-plugins/market
+$ npm install @ischemaview-awesome-cordova-plugins/market
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/market/)

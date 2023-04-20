@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add @mauron85/cordova-plugin-background-geolocation
-$ npm install @awesome-cordova-plugins/background-geolocation
+$ npm install @ischemaview-awesome-cordova-plugins/background-geolocation
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/background-geolocation/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-pdf-generator
-$ npm install @awesome-cordova-plugins/pdf-generator
+$ npm install @ischemaview-awesome-cordova-plugins/pdf-generator
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/pdf-generator/)

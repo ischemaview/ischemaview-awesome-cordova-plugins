@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add https://github.com/moust/cordova-plugin-videoplayer.git
-$ npm install @awesome-cordova-plugins/video-player
+$ npm install @ischemaview-awesome-cordova-plugins/video-player
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/video-player/)

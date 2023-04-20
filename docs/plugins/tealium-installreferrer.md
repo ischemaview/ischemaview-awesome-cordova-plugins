@@ -2,7 +2,7 @@
 
 ```text
 $ ''
-$ npm install @awesome-cordova-plugins/tealium-installreferrer
+$ npm install @ischemaview-awesome-cordova-plugins/tealium-installreferrer
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/tealium-installreferrer/)

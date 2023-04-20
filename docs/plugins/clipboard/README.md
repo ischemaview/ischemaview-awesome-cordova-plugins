@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-clipboard
-$ npm install @awesome-cordova-plugins/clipboard
+$ npm install @ischemaview-awesome-cordova-plugins/clipboard
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/clipboard/)

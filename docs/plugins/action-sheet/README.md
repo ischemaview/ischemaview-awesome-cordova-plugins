@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-actionsheet
-$ npm install @awesome-cordova-plugins/action-sheet
+$ npm install @ischemaview-awesome-cordova-plugins/action-sheet
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/action-sheet/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-zip
-$ npm install @awesome-cordova-plugins/zip
+$ npm install @ischemaview-awesome-cordova-plugins/zip
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/zip/)

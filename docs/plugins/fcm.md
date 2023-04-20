@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-fcm-with-dependecy-updated
-$ npm install @awesome-cordova-plugins/fcm
+$ npm install @ischemaview-awesome-cordova-plugins/fcm
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/fcm/)

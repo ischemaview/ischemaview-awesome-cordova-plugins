@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-streaming-media
-$ npm install @awesome-cordova-plugins/streaming-media
+$ npm install @ischemaview-awesome-cordova-plugins/streaming-media
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/streaming-media/)

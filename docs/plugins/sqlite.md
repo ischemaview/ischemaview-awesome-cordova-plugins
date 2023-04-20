@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-sqlite-storage
-$ npm install @awesome-cordova-plugins/sqlite
+$ npm install @ischemaview-awesome-cordova-plugins/sqlite
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/sqlite/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-inappbrowser
-$ npm install @awesome-cordova-plugins/in-app-browser
+$ npm install @ischemaview-awesome-cordova-plugins/in-app-browser
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/in-app-browser/)

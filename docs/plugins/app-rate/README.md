@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-apprate
-$ npm install @awesome-cordova-plugins/app-rate
+$ npm install @ischemaview-awesome-cordova-plugins/app-rate
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/app-rate/)

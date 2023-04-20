@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-youtube-video-player
-$ npm install @awesome-cordova-plugins/youtube-video-player
+$ npm install @ischemaview-awesome-cordova-plugins/youtube-video-player
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/youtube-video-player/)

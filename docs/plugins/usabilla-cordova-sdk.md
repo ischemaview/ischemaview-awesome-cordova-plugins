@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add usabilla-cordova
-$ npm install @awesome-cordova-plugins/usabilla-cordova-sdk
+$ npm install @ischemaview-awesome-cordova-plugins/usabilla-cordova-sdk
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/usabilla-cordova-sdk/)

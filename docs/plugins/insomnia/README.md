@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-insomnia
-$ npm install @awesome-cordova-plugins/insomnia
+$ npm install @ischemaview-awesome-cordova-plugins/insomnia
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/insomnia/)

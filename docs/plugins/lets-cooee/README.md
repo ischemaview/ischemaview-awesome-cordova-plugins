@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add @letscooee/cordova-plugin --variable COOEE_APP_ID=appId
-$ npm install @awesome-cordova-plugins/lets-cooee
+$ npm install @ischemaview-awesome-cordova-plugins/lets-cooee
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/lets-cooee/)

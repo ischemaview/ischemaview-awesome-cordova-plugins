@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add com-infobip-plugins-mobilemessaging
-$ npm install @awesome-cordova-plugins/mobile-messaging
+$ npm install @ischemaview-awesome-cordova-plugins/mobile-messaging
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/mobile-messaging/)

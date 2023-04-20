@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-firebase
-$ npm install @awesome-cordova-plugins/firebase
+$ npm install @ischemaview-awesome-cordova-plugins/firebase
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/firebase/)

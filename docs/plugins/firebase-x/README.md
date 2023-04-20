@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-firebasex
-$ npm install @awesome-cordova-plugins/firebase-x
+$ npm install @ischemaview-awesome-cordova-plugins/firebase-x
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/firebase-x/)

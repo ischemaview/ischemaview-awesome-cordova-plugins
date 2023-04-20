@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-simple-file-chooser
-$ npm install @awesome-cordova-plugins/chooser-simple-file
+$ npm install @ischemaview-awesome-cordova-plugins/chooser-simple-file
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/chooser-simple-file/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-starprnt
-$ npm install @awesome-cordova-plugins/star-prnt
+$ npm install @ischemaview-awesome-cordova-plugins/star-prnt
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/star-prnt/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-document-viewer
-$ npm install @awesome-cordova-plugins/document-viewer
+$ npm install @ischemaview-awesome-cordova-plugins/document-viewer
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/document-viewer/)

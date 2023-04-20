@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add pspdfkit-cordova
-$ npm install @awesome-cordova-plugins/pspdfkit-cordova
+$ npm install @ischemaview-awesome-cordova-plugins/pspdfkit-cordova
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/pspdfkit-cordova/)

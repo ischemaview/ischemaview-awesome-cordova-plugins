@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add com.adjust.sdk
-$ npm install @awesome-cordova-plugins/adjust
+$ npm install @ischemaview-awesome-cordova-plugins/adjust
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/adjust/)

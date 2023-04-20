@@ -33,7 +33,7 @@ const webpackConfig: Configuration = {
     modules: ['node_modules'],
     extensions: ['.js'],
     alias: {
-      '@awesome-cordova-plugins/core': resolve(DIST, '@awesome-cordova-plugins/core/index.js'),
+      '@ischemaview-awesome-cordova-plugins/core': resolve(DIST, '@ischemaview-awesome-cordova-plugins/core/index.js'),
     },
   },
   module: {
@@ -69,8 +69,8 @@ function createIndexFile() {
   fileContent += `\nwindow.IonicNative = {\n`;
   fileContent += INJECTABLE_CLASSES.map((e) => e.className).join(',\n');
   fileContent += '\n};\n';
-  fileContent += `require('./@awesome-cordova-plugins/core/bootstrap').checkReady();\n`;
-  fileContent += `require('./@awesome-cordova-plugins/core/ng1').initAngular1(window.IonicNative);`;
+  fileContent += `require('./@ischemaview-awesome-cordova-plugins/core/bootstrap').checkReady();\n`;
+  fileContent += `require('./@ischemaview-awesome-cordova-plugins/core/ng1').initAngular1(window.IonicNative);`;
 
   writeFileSync(INDEX_PATH, fileContent, { encoding: 'utf-8' });
 }

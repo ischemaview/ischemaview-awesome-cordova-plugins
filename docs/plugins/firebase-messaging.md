@@ -4,7 +4,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-firebase-messaging
-$ npm install @awesome-cordova-plugins/firebase-messaging
+$ npm install @ischemaview-awesome-cordova-plugins/firebase-messaging
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/firebase-messaging/)

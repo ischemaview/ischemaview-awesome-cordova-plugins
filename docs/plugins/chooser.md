@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-chooser
-$ npm install @awesome-cordova-plugins/chooser
+$ npm install @ischemaview-awesome-cordova-plugins/chooser
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/chooser/)

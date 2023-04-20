@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-purchases@2.4.0
-$ npm install @awesome-cordova-plugins/purchases
+$ npm install @ischemaview-awesome-cordova-plugins/purchases
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/purchases/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-magnetometer
-$ npm install @awesome-cordova-plugins/magnetometer
+$ npm install @ischemaview-awesome-cordova-plugins/magnetometer
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/magnetometer/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-device-orientation
-$ npm install @awesome-cordova-plugins/device-orientation
+$ npm install @ischemaview-awesome-cordova-plugins/device-orientation
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/device-orientation/)

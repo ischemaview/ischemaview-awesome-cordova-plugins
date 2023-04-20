@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-apple-wallet
-$ npm install @awesome-cordova-plugins/apple-wallet
+$ npm install @ischemaview-awesome-cordova-plugins/apple-wallet
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/apple-wallet/)

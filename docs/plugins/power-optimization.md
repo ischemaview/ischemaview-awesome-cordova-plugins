@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-power-optimization
-$ npm install @awesome-cordova-plugins/power-optimization
+$ npm install @ischemaview-awesome-cordova-plugins/power-optimization
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/power-optimization/)

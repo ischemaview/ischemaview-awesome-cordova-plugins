@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-firebase-authentication --variable FIREBASE_AUTH_VERSION=version
-$ npm install @awesome-cordova-plugins/firebase-authentication
+$ npm install @ischemaview-awesome-cordova-plugins/firebase-authentication
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/firebase-authentication/)

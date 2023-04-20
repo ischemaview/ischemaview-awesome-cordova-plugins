@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-launch-review
-$ npm install @awesome-cordova-plugins/launch-review
+$ npm install @ischemaview-awesome-cordova-plugins/launch-review
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/launch-review/)

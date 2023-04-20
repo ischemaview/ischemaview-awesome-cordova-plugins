@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-broadcaster
-$ npm install @awesome-cordova-plugins/broadcaster
+$ npm install @ischemaview-awesome-cordova-plugins/broadcaster
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/broadcaster/)

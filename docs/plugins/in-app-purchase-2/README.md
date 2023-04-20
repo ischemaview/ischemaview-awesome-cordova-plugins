@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-purchase --variable BILLING_KEY="<ANDROID_BILLING_KEY>"
-$ npm install @awesome-cordova-plugins/in-app-purchase-2
+$ npm install @ischemaview-awesome-cordova-plugins/in-app-purchase-2
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/in-app-purchase-2/)

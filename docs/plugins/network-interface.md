@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-networkinterface
-$ npm install @awesome-cordova-plugins/network-interface
+$ npm install @ischemaview-awesome-cordova-plugins/network-interface
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/network-interface/)

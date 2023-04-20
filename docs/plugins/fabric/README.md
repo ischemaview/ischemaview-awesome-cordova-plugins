@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-fabric-plugin --variable FABRIC_API_KEY=XXX --variable FABRIC_API_SECRET=xxx
-$ npm install @awesome-cordova-plugins/fabric
+$ npm install @ischemaview-awesome-cordova-plugins/fabric
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/fabric/)

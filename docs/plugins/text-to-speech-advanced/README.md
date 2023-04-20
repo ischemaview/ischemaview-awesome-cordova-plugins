@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-tts-advanced
-$ npm install @awesome-cordova-plugins/text-to-speech-advanced
+$ npm install @ischemaview-awesome-cordova-plugins/text-to-speech-advanced
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/text-to-speech-advanced/)

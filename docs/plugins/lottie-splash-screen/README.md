@@ -2,7 +2,7 @@
 
 ```
 $ ''
-$ npm install @awesome-cordova-plugins/lottie-splash-screen
+$ npm install @ischemaview-awesome-cordova-plugins/lottie-splash-screen
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/lottie-splash-screen/)

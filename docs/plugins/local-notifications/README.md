@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-local-notification
-$ npm install @awesome-cordova-plugins/local-notifications
+$ npm install @ischemaview-awesome-cordova-plugins/local-notifications
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/local-notifications/)

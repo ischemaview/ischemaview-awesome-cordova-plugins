@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add branch-cordova-sdk
-$ npm install @awesome-cordova-plugins/branch-io
+$ npm install @ischemaview-awesome-cordova-plugins/branch-io
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/branch-io/)

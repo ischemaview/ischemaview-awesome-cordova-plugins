@@ -2,7 +2,7 @@
 
 ```text
 $ cordova plugin add cordova-sumup-plugin --variable SUMUP_API_KEY=INSERT_YOUR_KEY
-$ npm install @awesome-cordova-plugins/sum-up
+$ npm install @ischemaview-awesome-cordova-plugins/sum-up
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/sum-up/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-ionic-keyboard
-$ npm install @awesome-cordova-plugins/keyboard
+$ npm install @ischemaview-awesome-cordova-plugins/keyboard
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/keyboard/)

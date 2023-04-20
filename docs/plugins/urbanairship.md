@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add urbanairship-cordova
-$ npm install @awesome-cordova-plugins/urbanairship
+$ npm install @ischemaview-awesome-cordova-plugins/urbanairship
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/urbanairship/)

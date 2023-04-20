@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-admob
-$ npm install @awesome-cordova-plugins/admob
+$ npm install @ischemaview-awesome-cordova-plugins/admob
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/admob/)

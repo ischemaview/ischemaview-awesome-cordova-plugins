@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add ionic-plugin-deeplinks --variable URL_SCHEME=myapp --variable DEEPLINK_SCHEME=https --variable DEEPLINK_HOST=example.com --variable ANDROID_PATH_PREFIX=/
-$ npm install @awesome-cordova-plugins/deeplinks
+$ npm install @ischemaview-awesome-cordova-plugins/deeplinks
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/deeplinks/)

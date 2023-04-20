@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-headercolor
-$ npm install @awesome-cordova-plugins/header-color
+$ npm install @ischemaview-awesome-cordova-plugins/header-color
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/header-color/)

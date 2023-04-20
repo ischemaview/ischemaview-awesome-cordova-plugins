@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-firebase-crash
-$ npm install @awesome-cordova-plugins/firebase-crash
+$ npm install @ischemaview-awesome-cordova-plugins/firebase-crash
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/firebase-crash/)

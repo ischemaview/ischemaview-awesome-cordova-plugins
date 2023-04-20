@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-documentpicker.DocumentPicker
-$ npm install @awesome-cordova-plugins/document-picker
+$ npm install @ischemaview-awesome-cordova-plugins/document-picker
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/document-picker/)

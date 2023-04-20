@@ -2,7 +2,7 @@
 
 ```
 $ cordova plugin add cordova-plugin-getuisdk --variable PUSH_APPID=your appid --variable PUSH_APPKEY=your appkey --variable PUSH_APPSECRET=your appsecret
-$ npm install @awesome-cordova-plugins/ge-tui-sdk-plugin
+$ npm install @ischemaview-awesome-cordova-plugins/ge-tui-sdk-plugin
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/ge-tui-sdk-plugin/)

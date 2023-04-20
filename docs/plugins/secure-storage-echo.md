@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-secure-storage-echo
-$ npm install @awesome-cordova-plugins/secure-storage-echo
+$ npm install @ischemaview-awesome-cordova-plugins/secure-storage-echo
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/secure-storage-echo/)

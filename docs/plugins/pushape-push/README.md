@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add pushape-cordova-push
-$ npm install @awesome-cordova-plugins/pushape-push
+$ npm install @ischemaview-awesome-cordova-plugins/pushape-push
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/pushape-push/)

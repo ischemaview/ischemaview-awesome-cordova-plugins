@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-open-native-settings
-$ npm install @awesome-cordova-plugins/open-native-settings
+$ npm install @ischemaview-awesome-cordova-plugins/open-native-settings
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/open-native-settings/)

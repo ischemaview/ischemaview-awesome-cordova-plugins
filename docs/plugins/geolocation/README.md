@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-geolocation --variable GEOLOCATION_USAGE_DESCRIPTION="To locate you"
-$ npm install @awesome-cordova-plugins/geolocation
+$ npm install @ischemaview-awesome-cordova-plugins/geolocation
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/geolocation/)

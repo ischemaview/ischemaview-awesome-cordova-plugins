@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-imap
-$ npm install @awesome-cordova-plugins/imap
+$ npm install @ischemaview-awesome-cordova-plugins/imap
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/imap/)

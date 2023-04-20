@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add com.telerik.plugins.healthkit
-$ npm install @awesome-cordova-plugins/health-kit
+$ npm install @ischemaview-awesome-cordova-plugins/health-kit
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/health-kit/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-foreground-service
-$ npm install @awesome-cordova-plugins/foreground-service
+$ npm install @ischemaview-awesome-cordova-plugins/foreground-service
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/foreground-service/)

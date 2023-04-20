@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-x-toast
-$ npm install @awesome-cordova-plugins/toast
+$ npm install @ischemaview-awesome-cordova-plugins/toast
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/toast/)

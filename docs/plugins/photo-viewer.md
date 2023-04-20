@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add com-sarriaroman-photoviewer
-$ npm install @awesome-cordova-plugins/photo-viewer
+$ npm install @ischemaview-awesome-cordova-plugins/photo-viewer
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/photo-viewer/)

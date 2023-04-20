@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-approov-advanced-http
-$ npm install @awesome-cordova-plugins/approov-advanced-http
+$ npm install @ischemaview-awesome-cordova-plugins/approov-advanced-http
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/approov-advanced-http/)

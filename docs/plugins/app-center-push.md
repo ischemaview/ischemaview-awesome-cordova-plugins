@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-appcenter-push
-$ npm install @awesome-cordova-plugins/app-center-push
+$ npm install @ischemaview-awesome-cordova-plugins/app-center-push
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/app-center-push/)

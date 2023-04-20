@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-dialogs
-$ npm install @awesome-cordova-plugins/dialogs
+$ npm install @ischemaview-awesome-cordova-plugins/dialogs
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/dialogs/)

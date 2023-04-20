@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-file-transfer
-$ npm install @awesome-cordova-plugins/file-transfer
+$ npm install @ischemaview-awesome-cordova-plugins/file-transfer
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/file-transfer/)

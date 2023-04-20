@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-instagram-plugin
-$ npm install @awesome-cordova-plugins/instagram
+$ npm install @ischemaview-awesome-cordova-plugins/instagram
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/instagram/)

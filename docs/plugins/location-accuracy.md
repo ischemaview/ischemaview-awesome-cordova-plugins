@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-request-location-accuracy
-$ npm install @awesome-cordova-plugins/location-accuracy
+$ npm install @ischemaview-awesome-cordova-plugins/location-accuracy
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/location-accuracy/)

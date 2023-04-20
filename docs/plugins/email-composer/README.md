@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-email-composer
-$ npm install @awesome-cordova-plugins/email-composer
+$ npm install @ischemaview-awesome-cordova-plugins/email-composer
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/email-composer/)

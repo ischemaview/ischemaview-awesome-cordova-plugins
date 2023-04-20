@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-vibration
-$ npm install @awesome-cordova-plugins/vibration
+$ npm install @ischemaview-awesome-cordova-plugins/vibration
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/vibration/)

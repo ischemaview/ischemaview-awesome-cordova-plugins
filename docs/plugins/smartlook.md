@@ -1,6 +1,6 @@
 # SmartlookSetupConfigBuilder
 
-va plugin add [https://github.com/smartlook/cordova-smartlook.git](https://github.com/smartlook/cordova-smartlook.git) $ npm install @awesome-cordova-plugins/smartlook
+va plugin add [https://github.com/smartlook/cordova-smartlook.git](https://github.com/smartlook/cordova-smartlook.git) $ npm install @ischemaview-awesome-cordova-plugins/smartlook
 
 \`\`\`
 

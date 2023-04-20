@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-bluetoothle
-$ npm install @awesome-cordova-plugins/bluetooth-le
+$ npm install @ischemaview-awesome-cordova-plugins/bluetooth-le
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/bluetooth-le/)

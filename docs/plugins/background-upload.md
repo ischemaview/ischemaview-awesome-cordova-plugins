@@ -1,6 +1,6 @@
 # FileTransferManager
 
-\` $ ionic cordova plugin add cordova-plugin-background-upload $ npm install @awesome-cordova-plugins/background-upload
+\` $ ionic cordova plugin add cordova-plugin-background-upload $ npm install @ischemaview-awesome-cordova-plugins/background-upload
 
 \`\`\`
 

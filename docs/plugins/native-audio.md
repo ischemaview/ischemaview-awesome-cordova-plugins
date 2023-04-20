@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-nativeaudio
-$ npm install @awesome-cordova-plugins/native-audio
+$ npm install @ischemaview-awesome-cordova-plugins/native-audio
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/native-audio/)

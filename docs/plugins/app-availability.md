@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-appavailability
-$ npm install @awesome-cordova-plugins/app-availability
+$ npm install @ischemaview-awesome-cordova-plugins/app-availability
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/app-availability/)

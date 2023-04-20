@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add vibes-cordova --variable VIBES_APP_ID=MY_APP_ID --variable VIBES_API_URL=MY_ENVIRONMENT_URL
-$ npm install @awesome-cordova-plugins/vibes
+$ npm install @ischemaview-awesome-cordova-plugins/vibes
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/vibes/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add com.omarben.inappreview
-$ npm install @awesome-cordova-plugins/in-app-review
+$ npm install @ischemaview-awesome-cordova-plugins/in-app-review
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/in-app-review/)

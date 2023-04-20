@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-local-backup
-$ npm install @awesome-cordova-plugins/local-backup
+$ npm install @ischemaview-awesome-cordova-plugins/local-backup
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/local-backup/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-openalpr
-$ npm install @awesome-cordova-plugins/openalpr
+$ npm install @ischemaview-awesome-cordova-plugins/openalpr
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/openalpr/)

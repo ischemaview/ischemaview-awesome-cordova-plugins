@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-file
-$ npm install @awesome-cordova-plugins/file
+$ npm install @ischemaview-awesome-cordova-plugins/file
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/file/)
@@ -15,7 +15,7 @@ The File class implements static convenience functions to access files and direc
 
 Example:
 ```
-import { File } from '@awesome-cordova-plugins/file/ngx';
+import { File } from '@ischemaview-awesome-cordova-plugins/file/ngx';
 
 constructor(private file: File) { }
 

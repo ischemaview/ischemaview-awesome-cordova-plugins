@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-document-scanner
-$ npm install @awesome-cordova-plugins/document-scanner
+$ npm install @ischemaview-awesome-cordova-plugins/document-scanner
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/document-scanner/)

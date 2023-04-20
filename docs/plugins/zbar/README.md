@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-cszbar
-$ npm install @awesome-cordova-plugins/zbar
+$ npm install @ischemaview-awesome-cordova-plugins/zbar
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/zbar/)

@@ -4,7 +4,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-wheel-selector-plugin
-$ npm install @awesome-cordova-plugins/wheel-selector
+$ npm install @ischemaview-awesome-cordova-plugins/wheel-selector
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/wheel-selector/)

@@ -16,8 +16,8 @@
     "inlineSources": true,
     "sourceMap": true
   },
-  "include": ["src/@awesome-cordova-plugins/core/**/*.ts"],
-  "exclude": ["node_modules", "src/@awesome-cordova-plugins/core/**/*.spec.ts"],
+  "include": ["src/@ischemaview-awesome-cordova-plugins/core/**/*.ts"],
+  "exclude": ["node_modules", "src/@ischemaview-awesome-cordova-plugins/core/**/*.spec.ts"],
   "angularCompilerOptions": {
     "genDir": "aot",
     "compilationMode": "partial"

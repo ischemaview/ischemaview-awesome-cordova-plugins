@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-photo-library --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="To choose photos"
-$ npm install @awesome-cordova-plugins/photo-library
+$ npm install @ischemaview-awesome-cordova-plugins/photo-library
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/photo-library/)

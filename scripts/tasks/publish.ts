@@ -26,7 +26,7 @@ const PACKAGE_JSON_BASE = {
   },
 };
 
-const DIST = resolve(ROOT, 'dist/@awesome-cordova-plugins');
+const DIST = resolve(ROOT, 'dist/@ischemaview-awesome-cordova-plugins');
 
 const PACKAGES = [];
 
@@ -34,13 +34,13 @@ const MIN_CORE_VERSION = '^6.0.1';
 const RXJS_VERSION = '^5.5.0 || ^6.5.0 || ^7.3.0';
 
 const PLUGIN_PEER_DEPENDENCIES = {
-  '@awesome-cordova-plugins/core': MIN_CORE_VERSION,
+  '@ischemaview-awesome-cordova-plugins/core': MIN_CORE_VERSION,
   rxjs: RXJS_VERSION,
 };
 
 function getPackageJsonContent(name: string, peerDependencies = {}, dependencies = {}) {
   return merge(PACKAGE_JSON_BASE, {
-    name: '@awesome-cordova-plugins/' + name,
+    name: '@ischemaview-awesome-cordova-plugins/' + name,
     dependencies,
     peerDependencies,
     version: VERSION,
@@ -57,7 +57,7 @@ function writeNGXPackageJson(data: any, dir: string) {
   writeJSONSync(filePath, data);
 }
 function prepare() {
-  // write @awesome-cordova-plugins/core package.json
+  // write @ischemaview-awesome-cordova-plugins/core package.json
   writePackageJson(
     getPackageJsonContent('core', { rxjs: RXJS_VERSION }, { '@types/cordova': 'latest' }),
     resolve(DIST, 'core')

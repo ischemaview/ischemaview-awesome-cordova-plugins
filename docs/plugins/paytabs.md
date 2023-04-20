@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add com.paytabs.cordova.plugin
-$ npm install @awesome-cordova-plugins/paytabs
+$ npm install @ischemaview-awesome-cordova-plugins/paytabs
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/paytabs/)

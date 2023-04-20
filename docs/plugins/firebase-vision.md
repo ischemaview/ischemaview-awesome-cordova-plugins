@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-firebase-mlvision
-$ npm install @awesome-cordova-plugins/firebase-vision
+$ npm install @ischemaview-awesome-cordova-plugins/firebase-vision
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/firebase-vision/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-printer
-$ npm install @awesome-cordova-plugins/printer
+$ npm install @ischemaview-awesome-cordova-plugins/printer
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/printer/)

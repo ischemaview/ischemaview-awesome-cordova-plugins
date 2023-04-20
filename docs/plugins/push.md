@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add phonegap-plugin-push
-$ npm install @awesome-cordova-plugins/push
+$ npm install @ischemaview-awesome-cordova-plugins/push
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/push/)

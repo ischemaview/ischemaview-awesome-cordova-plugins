@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-nativeview
-$ npm install @awesome-cordova-plugins/native-view
+$ npm install @ischemaview-awesome-cordova-plugins/native-view
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/native-view/)

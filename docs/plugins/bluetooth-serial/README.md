@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-bluetooth-serial
-$ npm install @awesome-cordova-plugins/bluetooth-serial
+$ npm install @ischemaview-awesome-cordova-plugins/bluetooth-serial
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/bluetooth-serial/)

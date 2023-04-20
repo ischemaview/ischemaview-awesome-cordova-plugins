@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-abbyy-rtr-sdk
-$ npm install @awesome-cordova-plugins/abbyy-rtr
+$ npm install @ischemaview-awesome-cordova-plugins/abbyy-rtr
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/abbyy-rtr/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-gaodelocation-chenyu --variable  ANDROID_API_KEY=your android key --variable  IOS_API_KEY=your ios key
-$ npm install @awesome-cordova-plugins/gao-de-location
+$ npm install @ischemaview-awesome-cordova-plugins/gao-de-location
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/gao-de-location/)

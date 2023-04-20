@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-camera
-$ npm install @awesome-cordova-plugins/camera
+$ npm install @ischemaview-awesome-cordova-plugins/camera
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/camera/)

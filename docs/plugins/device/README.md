@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-device
-$ npm install @awesome-cordova-plugins/device
+$ npm install @ischemaview-awesome-cordova-plugins/device
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/device/)

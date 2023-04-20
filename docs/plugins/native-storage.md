@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-nativestorage
-$ npm install @awesome-cordova-plugins/native-storage
+$ npm install @ischemaview-awesome-cordova-plugins/native-storage
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/native-storage/)

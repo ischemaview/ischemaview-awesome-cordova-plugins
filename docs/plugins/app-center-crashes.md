@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-appcenter-crashes
-$ npm install @awesome-cordova-plugins/app-center-crashes
+$ npm install @ischemaview-awesome-cordova-plugins/app-center-crashes
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/app-center-crashes/)

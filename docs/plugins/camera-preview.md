@@ -4,7 +4,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-camera-preview
-$ npm install @awesome-cordova-plugins/camera-preview
+$ npm install @ischemaview-awesome-cordova-plugins/camera-preview
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/camera-preview/)

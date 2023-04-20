@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-multiple-documents-picker
-$ npm install @awesome-cordova-plugins/multiple-document-picker
+$ npm install @ischemaview-awesome-cordova-plugins/multiple-document-picker
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/multiple-document-picker/)

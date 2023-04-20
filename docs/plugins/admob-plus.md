@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-admob-plus
-$ npm install @awesome-cordova-plugins/admob-plus
+$ npm install @ischemaview-awesome-cordova-plugins/admob-plus
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/admob-plus/)

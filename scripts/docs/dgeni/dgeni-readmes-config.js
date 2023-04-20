@@ -51,12 +51,12 @@ module.exports = (currentVersion) => {
         readFilesProcessor.basePath = path.resolve(__dirname, '../../..');
 
         readTypeScriptModules.basePath = path.resolve(path.resolve(__dirname, '../../..'));
-        readTypeScriptModules.sourceFiles = ['./src/@awesome-cordova-plugins/plugins/**/*.ts'];
+        readTypeScriptModules.sourceFiles = ['./src/@ischemaview-awesome-cordova-plugins/plugins/**/*.ts'];
       })
 
       // Configure file writing
       .config(function (writeFilesProcessor) {
-        writeFilesProcessor.outputFolder = './dist/@awesome-cordova-plugins/';
+        writeFilesProcessor.outputFolder = './dist/@ischemaview-awesome-cordova-plugins/';
       })
 
       .config(function (writeFilesProcessor) {

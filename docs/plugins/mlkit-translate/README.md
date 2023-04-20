@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-mlkit-translate
-$ npm install @awesome-cordova-plugins/mlkit-translate
+$ npm install @ischemaview-awesome-cordova-plugins/mlkit-translate
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/mlkit-translate/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add kommunicate-cordova-plugin
-$ npm install @awesome-cordova-plugins/kommunicate
+$ npm install @ischemaview-awesome-cordova-plugins/kommunicate
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/kommunicate/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-webengage
-$ npm install @awesome-cordova-plugins/webengage
+$ npm install @ischemaview-awesome-cordova-plugins/webengage
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/webengage/)

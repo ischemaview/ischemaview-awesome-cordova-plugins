@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-stripe
-$ npm install @awesome-cordova-plugins/stripe
+$ npm install @ischemaview-awesome-cordova-plugins/stripe
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/stripe/)

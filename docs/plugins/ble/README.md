@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-ble-central
-$ npm install @awesome-cordova-plugins/ble
+$ npm install @ischemaview-awesome-cordova-plugins/ble
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/ble/)

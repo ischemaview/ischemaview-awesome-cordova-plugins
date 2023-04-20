@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-shake
-$ npm install @awesome-cordova-plugins/shake
+$ npm install @ischemaview-awesome-cordova-plugins/shake
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/shake/)

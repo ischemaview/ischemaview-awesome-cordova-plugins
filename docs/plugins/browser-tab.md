@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-browsertab
-$ npm install @awesome-cordova-plugins/browser-tab
+$ npm install @ischemaview-awesome-cordova-plugins/browser-tab
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/browser-tab/)

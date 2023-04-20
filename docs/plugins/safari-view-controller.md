@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-safariviewcontroller
-$ npm install @awesome-cordova-plugins/safari-view-controller
+$ npm install @ischemaview-awesome-cordova-plugins/safari-view-controller
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/safari-view-controller/)

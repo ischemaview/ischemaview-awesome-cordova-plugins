@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add wonderpush-cordova-sdk --variable CLIENT_ID=YOUR_CLIENT_ID --variable CLIENT_SECRET=YOUR_CLIENT_SECRET 
-$ npm install @awesome-cordova-plugins/wonderpush
+$ npm install @ischemaview-awesome-cordova-plugins/wonderpush
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/wonderpush/)

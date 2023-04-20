@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-sms-plugin
-$ npm install @awesome-cordova-plugins/sms
+$ npm install @ischemaview-awesome-cordova-plugins/sms
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/sms/)

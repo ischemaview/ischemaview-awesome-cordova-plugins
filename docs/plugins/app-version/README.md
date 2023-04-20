@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-app-version
-$ npm install @awesome-cordova-plugins/app-version
+$ npm install @ischemaview-awesome-cordova-plugins/app-version
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/app-version/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-intercom
-$ npm install @awesome-cordova-plugins/intercom
+$ npm install @ischemaview-awesome-cordova-plugins/intercom
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/intercom/)

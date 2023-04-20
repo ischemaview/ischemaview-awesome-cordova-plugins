@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-health
-$ npm install @awesome-cordova-plugins/health
+$ npm install @ischemaview-awesome-cordova-plugins/health
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/health/)

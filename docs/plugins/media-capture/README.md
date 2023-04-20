@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-media-capture
-$ npm install @awesome-cordova-plugins/media-capture
+$ npm install @ischemaview-awesome-cordova-plugins/media-capture
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/media-capture/)

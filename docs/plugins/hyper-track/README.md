@@ -2,7 +2,7 @@
 
 alidationError
 ic cordova plugin add cordova-plugin-hypertrack-v3
-$ npm install @awesome-cordova-plugins/hyper-track
+$ npm install @ischemaview-awesome-cordova-plugins/hyper-track
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/hyper-track/)

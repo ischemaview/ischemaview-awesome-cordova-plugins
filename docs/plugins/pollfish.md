@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add com.pollfish.cordova_plugin
-$ npm install @awesome-cordova-plugins/pollfish
+$ npm install @ischemaview-awesome-cordova-plugins/pollfish
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/pollfish/)

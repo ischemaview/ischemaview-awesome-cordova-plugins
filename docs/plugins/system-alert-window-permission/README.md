@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-system-alert-window-permission
-$ npm install @awesome-cordova-plugins/system-alert-window-permission
+$ npm install @ischemaview-awesome-cordova-plugins/system-alert-window-permission
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/system-alert-window-permission/)

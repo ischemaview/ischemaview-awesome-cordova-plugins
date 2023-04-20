@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-facebook-connect --variable APP_ID="123456789" --variable APP_NAME="myApplication"
-$ npm install @awesome-cordova-plugins/facebook
+$ npm install @ischemaview-awesome-cordova-plugins/facebook
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/facebook/)

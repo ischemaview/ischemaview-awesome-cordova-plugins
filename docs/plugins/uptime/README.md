@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-uptime
-$ npm install @awesome-cordova-plugins/uptime
+$ npm install @ischemaview-awesome-cordova-plugins/uptime
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/uptime/)

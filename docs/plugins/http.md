@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-advanced-http
-$ npm install @awesome-cordova-plugins/http
+$ npm install @ischemaview-awesome-cordova-plugins/http
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/http/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-sms-retriever-manager --variable PLAY_SERVICES_VERSION="15.0.1"
-$ npm install @awesome-cordova-plugins/sms-retriever
+$ npm install @ischemaview-awesome-cordova-plugins/sms-retriever
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/sms-retriever/)

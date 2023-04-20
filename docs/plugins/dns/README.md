@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-dns
-$ npm install @awesome-cordova-plugins/dns
+$ npm install @ischemaview-awesome-cordova-plugins/dns
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/dns/)

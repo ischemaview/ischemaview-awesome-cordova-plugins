@@ -3,8 +3,8 @@
 ordova SDK
 
 ```text
-$ ionic cordova plugin add @awesome-cordova-plugins/unvired-cordova-sdk
-$ npm install @awesome-cordova-plugins/unvired-cordova-sdk
+$ ionic cordova plugin add @ischemaview-awesome-cordova-plugins/unvired-cordova-sdk
+$ npm install @ischemaview-awesome-cordova-plugins/unvired-cordova-sdk
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/unvired-cordova-sdk/)

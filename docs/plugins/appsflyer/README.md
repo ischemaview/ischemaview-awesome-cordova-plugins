@@ -2,7 +2,7 @@
 
 ```
 $ Add to config.xml like stated on github and then start
-$ npm install @awesome-cordova-plugins/appsflyer
+$ npm install @ischemaview-awesome-cordova-plugins/appsflyer
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/appsflyer/)

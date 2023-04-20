@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add call-number
-$ npm install @awesome-cordova-plugins/call-number
+$ npm install @ischemaview-awesome-cordova-plugins/call-number
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/call-number/)

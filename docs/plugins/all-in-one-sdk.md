@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-paytm-allinonesdk
-$ npm install @awesome-cordova-plugins/all-in-one-sdk
+$ npm install @ischemaview-awesome-cordova-plugins/all-in-one-sdk
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/all-in-one-sdk/)

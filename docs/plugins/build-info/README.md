@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-buildinfo
-$ npm install @awesome-cordova-plugins/build-info
+$ npm install @ischemaview-awesome-cordova-plugins/build-info
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/build-info/)

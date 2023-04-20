@@ -1,6 +1,6 @@
 # AdjustAppStoreSubscription
 
-plugin add com.adjust.sdk $ npm install @awesome-cordova-plugins/adjust
+plugin add com.adjust.sdk $ npm install @ischemaview-awesome-cordova-plugins/adjust
 
 \`\`\`
 

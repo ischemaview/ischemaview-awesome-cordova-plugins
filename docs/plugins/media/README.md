@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-media
-$ npm install @awesome-cordova-plugins/media
+$ npm install @ischemaview-awesome-cordova-plugins/media
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/media/)

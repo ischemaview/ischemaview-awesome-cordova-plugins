@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-applovin-max
-$ npm install @awesome-cordova-plugins/applovin
+$ npm install @ischemaview-awesome-cordova-plugins/applovin
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/applovin/)

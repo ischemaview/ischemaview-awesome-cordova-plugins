@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-is-debug
-$ npm install @awesome-cordova-plugins/is-debug
+$ npm install @ischemaview-awesome-cordova-plugins/is-debug
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/is-debug/)

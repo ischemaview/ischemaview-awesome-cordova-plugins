@@ -2,7 +2,7 @@
 
 ```text
 $ cordova plugin add cordova-plugin-wechat --variable wechatappid=YOUR_WECHAT_APPID
-$ npm install @awesome-cordova-plugins/wechat
+$ npm install @ischemaview-awesome-cordova-plugins/wechat
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/wechat/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-google-analytics
-$ npm install @awesome-cordova-plugins/google-analytics
+$ npm install @ischemaview-awesome-cordova-plugins/google-analytics
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/google-analytics/)

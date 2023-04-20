@@ -13,10 +13,10 @@
 
 ```
 $ <@ if prop.install @><$ prop.install $><@ else @>ionic cordova plugin add <$ prop.plugin $><@ endif @>
-$ npm install @awesome-cordova-plugins/<$ doc.npmId|replace('plugins/','') $>
+$ npm install @ischemaview-awesome-cordova-plugins/<$ doc.npmId|replace('plugins/','') $>
 ```
 
-## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/<$ doc.fileInfo.relativePath|replace('/home/ubuntu/ionic-native/', '')|replace('//','/')|replace('index.ts','')|replace('src/@awesome-cordova-plugins/plugins/','') $>)
+## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/<$ doc.fileInfo.relativePath|replace('/home/ubuntu/ionic-native/', '')|replace('//','/')|replace('index.ts','')|replace('src/@ischemaview-awesome-cordova-plugins/plugins/','') $>)
 
 Plugin Repo: [<$ prop.repo $>](<$ prop.repo $>)
 

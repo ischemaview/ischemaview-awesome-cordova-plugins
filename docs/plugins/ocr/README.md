@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-mobile-ocr
-$ npm install @awesome-cordova-plugins/ocr
+$ npm install @ischemaview-awesome-cordova-plugins/ocr
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/ocr/)

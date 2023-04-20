@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-android-permissions
-$ npm install @awesome-cordova-plugins/android-permissions
+$ npm install @ischemaview-awesome-cordova-plugins/android-permissions
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/android-permissions/)

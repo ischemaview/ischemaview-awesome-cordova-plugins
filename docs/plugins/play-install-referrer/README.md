@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-play-installreferrer
-$ npm install @awesome-cordova-plugins/play-install-referrer
+$ npm install @ischemaview-awesome-cordova-plugins/play-install-referrer
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/play-install-referrer/)

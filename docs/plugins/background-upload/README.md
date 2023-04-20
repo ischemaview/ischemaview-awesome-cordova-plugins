@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-background-upload
-$ npm install @awesome-cordova-plugins/background-upload
+$ npm install @ischemaview-awesome-cordova-plugins/background-upload
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/background-upload/)

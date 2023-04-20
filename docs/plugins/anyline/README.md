@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add io-anyline-cordova
-$ npm install @awesome-cordova-plugins/anyline
+$ npm install @ischemaview-awesome-cordova-plugins/anyline
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/anyline/)

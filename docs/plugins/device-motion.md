@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-device-motion
-$ npm install @awesome-cordova-plugins/device-motion
+$ npm install @ischemaview-awesome-cordova-plugins/device-motion
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/device-motion/)

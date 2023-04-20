@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-telerik-imagepicker --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
-$ npm install @awesome-cordova-plugins/image-picker
+$ npm install @ischemaview-awesome-cordova-plugins/image-picker
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/image-picker/)

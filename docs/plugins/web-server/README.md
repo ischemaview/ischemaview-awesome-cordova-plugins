@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-webserver2
-$ npm install @awesome-cordova-plugins/web-server
+$ npm install @ischemaview-awesome-cordova-plugins/web-server
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/web-server/)

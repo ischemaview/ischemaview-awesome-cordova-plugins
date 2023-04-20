@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-calendar
-$ npm install @awesome-cordova-plugins/calendar
+$ npm install @ischemaview-awesome-cordova-plugins/calendar
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/calendar/)

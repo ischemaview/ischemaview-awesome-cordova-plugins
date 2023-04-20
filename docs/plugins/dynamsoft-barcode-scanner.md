@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-dynamsoft-barcode-reader
-$ npm install @awesome-cordova-plugins/dynamsoft-barcode-scanner
+$ npm install @ischemaview-awesome-cordova-plugins/dynamsoft-barcode-scanner
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/dynamsoft-barcode-scanner/)

@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-nativegeocoder
-$ npm install @awesome-cordova-plugins/native-geocoder
+$ npm install @ischemaview-awesome-cordova-plugins/native-geocoder
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/native-geocoder/)

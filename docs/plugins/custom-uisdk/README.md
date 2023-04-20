@@ -2,7 +2,7 @@
 
 ```
 $ ''
-$ npm install @awesome-cordova-plugins/custom-uisdk
+$ npm install @ischemaview-awesome-cordova-plugins/custom-uisdk
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/custom-uisdk/)

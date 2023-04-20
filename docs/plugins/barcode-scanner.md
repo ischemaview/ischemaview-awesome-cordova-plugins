@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add phonegap-plugin-barcodescanner
-$ npm install @awesome-cordova-plugins/barcode-scanner
+$ npm install @ischemaview-awesome-cordova-plugins/barcode-scanner
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/barcode-scanner/)

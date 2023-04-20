@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-badge
-$ npm install @awesome-cordova-plugins/badge
+$ npm install @ischemaview-awesome-cordova-plugins/badge
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/badge/)

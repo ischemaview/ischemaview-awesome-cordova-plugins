@@ -2,7 +2,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-ios-keychain
-$ npm install @awesome-cordova-plugins/keychain
+$ npm install @ischemaview-awesome-cordova-plugins/keychain
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/keychain/)

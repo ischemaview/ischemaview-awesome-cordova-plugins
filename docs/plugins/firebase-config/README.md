@@ -9,7 +9,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-firebase-config
-$ npm install @awesome-cordova-plugins/firebase-config
+$ npm install @ischemaview-awesome-cordova-plugins/firebase-config
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/firebase-config/)

@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-powermanagement
-$ npm install @awesome-cordova-plugins/power-management
+$ npm install @ischemaview-awesome-cordova-plugins/power-management
 ```
 
 ## [Usage Documentation](https://github.com/Viras-/cordova-plugin-powermanagement/)

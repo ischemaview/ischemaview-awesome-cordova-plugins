@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-native-spinner
-$ npm install @awesome-cordova-plugins/spinner-dialog
+$ npm install @ischemaview-awesome-cordova-plugins/spinner-dialog
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/spinner-dialog/)

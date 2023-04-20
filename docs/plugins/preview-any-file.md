@@ -2,7 +2,7 @@
 
 ```text
 $ ''
-$ npm install @awesome-cordova-plugins/preview-any-file
+$ npm install @ischemaview-awesome-cordova-plugins/preview-any-file
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/preview-any-file/)

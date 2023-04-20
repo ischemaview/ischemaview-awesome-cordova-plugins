@@ -2,7 +2,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-exoplayer
-$ npm install @awesome-cordova-plugins/android-exoplayer
+$ npm install @ischemaview-awesome-cordova-plugins/android-exoplayer
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/android-exoplayer/)

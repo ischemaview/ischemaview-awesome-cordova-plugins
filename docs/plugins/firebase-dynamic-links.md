@@ -4,7 +4,7 @@
 
 ```text
 $ ionic cordova plugin add cordova-plugin-firebase-dynamiclinks --save --variable APP_DOMAIN="example.com" --variable APP_PATH="/"
-$ npm install @awesome-cordova-plugins/firebase-dynamic-links
+$ npm install @ischemaview-awesome-cordova-plugins/firebase-dynamic-links
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/firebase-dynamic-links/)

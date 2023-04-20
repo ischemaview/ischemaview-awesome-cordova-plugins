@@ -4,7 +4,7 @@
 
 ```text
 $ cordova plugin add cordova-plugin-theme-detection
-$ npm install @awesome-cordova-plugins/theme-detection
+$ npm install @ischemaview-awesome-cordova-plugins/theme-detection
 ```
 
 ## [Usage Documentation](https://danielsogl.gitbook.io/awesome-cordova-plugins/plugins/theme-detection/)
