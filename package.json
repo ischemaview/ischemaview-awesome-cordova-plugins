@@ -1,7 +1,7 @@
 {
   "name": "ischemaview-awesome-cordova-plugins",
   "version": "0.0.1",
-  "description": "Ische,aNative plugin wrappers for Cordova and Ionic with TypeScript, ES6+, Promise and Observable support",
+  "description": "Native plugin wrappers for Cordova and Ionic with TypeScript, ES6+, Promise and Observable support",
   "author": "Daniel Sogl <me@danielsogl.com> (https://danielsogl.com)",
   "license": "MIT",
   "scripts": {
