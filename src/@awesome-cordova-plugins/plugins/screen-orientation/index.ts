@@ -50,9 +50,9 @@ import { Observable } from 'rxjs';
  */
 @Plugin({
   pluginName: 'ScreenOrientation',
-  plugin: 'cordova-plugin-screen-orientation',
-  pluginRef: 'screen.orientation',
-  repo: 'https://github.com/apache/cordova-plugin-screen-orientation',
+  plugin: 'ischemaview-cordova-plugin-screen-orientation',
+  pluginRef: 'screen.orientationPlugin',
+  repo: 'https://github.com/ischemaview/ischemaview-cordova-plugin-screen-orientation',
   platforms: ['Android', 'iOS', 'Windows'],
 })
 @Injectable()
