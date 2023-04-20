@@ -1,8 +1,7 @@
 {
-  "name": "awesome-cordova-plugins",
-  "version": "6.3.0",
-  "description": "Native plugin wrappers for Cordova and Ionic with TypeScript, ES6+, Promise and Observable support",
-  "homepage": "https://awesome-cordova-plugins.com",
+  "name": "ischemaview-awesome-cordova-plugins",
+  "version": "0.0.1",
+  "description": "Ische,aNative plugin wrappers for Cordova and Ionic with TypeScript, ES6+, Promise and Observable support",
   "author": "Daniel Sogl <me@danielsogl.com> (https://danielsogl.com)",
   "license": "MIT",
   "scripts": {
@@ -87,10 +86,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielsogl/awesome-cordova-plugins.git"
+    "url": "git+https://github.com/ischemaview/ischemaview-awesome-cordova-plugins.git"
   },
   "bugs": {
-    "url": "https://github.com/danielsogl/awesome-cordova-plugins/issues"
+    "url": "https://github.com/ischemaview/ischemaview-awesome-cordova-plugins/issues"
   },
   "config": {
     "commitizen": {
@@ -99,5 +98,8 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.infrastructure.rapid-sys.com/repository/npm-internal"
   }
 }
