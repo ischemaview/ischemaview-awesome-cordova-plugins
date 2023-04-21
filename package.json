@@ -1,6 +1,6 @@
 {
   "name": "ischemaview-awesome-cordova-plugins",
-  "version": "0.0.1",
+  "version": "1.0.0-hotfix399.0",
   "description": "Native plugin wrappers for Cordova and Ionic with TypeScript, ES6+, Promise and Observable support",
   "author": "Daniel Sogl <me@danielsogl.com> (https://danielsogl.com)",
   "license": "MIT",
@@ -88,8 +88,7 @@
   "bugs": {
     "url": "https://github.com/ischemaview/ischemaview-awesome-cordova-plugins/issues"
   },
-  "config": {
-  },
+  "config": {},
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
   },
